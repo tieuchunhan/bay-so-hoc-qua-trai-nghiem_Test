@@ -1,0 +1,1 @@
+// Dashboard demo: intentionally no external network calls and no personal-data storage.
